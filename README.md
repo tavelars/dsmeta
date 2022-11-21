@@ -1,0 +1,1 @@
+Projeto elaborado para estudar a integração de frontend React com backend Spring.
